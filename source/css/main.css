@@ -1,7 +1,0 @@
-* {
-	box-sizing: border-box;
-}
- header div {
-    display: inline-block;
-    border:5px solid blue;
-}
