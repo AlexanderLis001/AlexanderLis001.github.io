@@ -2,7 +2,65 @@
 	box-sizing: border-box;
 }
 
+header {
+    background-color: darkblue;
+    color: white;
+}
+.logo {
+    display: inline-block;
+    margin-left: 385px;
+    width: 135px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    border: solid red 2px; 
+}
+
+.menu{
+    margin-left: 425px;
+    display: inline-block;
+}
+
+
+.i {
+    width: 1920px;
+    height: 1020px;
+    background: #000 url(..//fonts/classi.png);
+    
+}
+
+.i img {
+    padding-top: 105px;
+}
+
+.li {
+    margin-left: 405px;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 400px;
+    
+}
+
+
+
 select{
     margin-top: 20px;
     display: block;
+    
+}
+
+hr {
+    width: 75px;
+    height: 5px;
+    border-color: orange;
+    background-color: orange;
+}
+.me h2{
+    text-align: center;
+    
+}
+textarea {
+    display: block;
+    width: 735px;
+    height: 100px;
 }
